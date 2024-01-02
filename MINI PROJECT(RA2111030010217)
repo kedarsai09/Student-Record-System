@@ -2,7 +2,7 @@
 #include <stdio.h>
 struct student {
     char firstName[50];
-    int roll;
+    int roll;  
     float marks;
 } s[5];
 
